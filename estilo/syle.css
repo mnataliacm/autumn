@@ -1,0 +1,50 @@
+body {  
+    background-color: #f0653b;
+    padding: 1% 1%;
+}
+        #fondoimg {
+            width: 90%;
+            height: 10%;
+            margin: 1px 1px;
+            padding: 5%;
+            background-image: url('../imagenes/wallpaper2.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            
+            position: relative;
+        }
+
+        #container {
+            border-radius: 20px;
+            width: 325px;
+            padding: 10px;
+            margin: 5% 5%;
+            background-color: rgba(255, 115, 0, 0.479);
+            padding: 5%;
+            
+        }
+
+        h1 {
+            color: rgb(247, 9, 9);
+            text-align: center;
+            font-size: 3em;
+            top:100px;
+            left:200px;
+            /*font-family:'';
+            font-size:2em;
+            text-shadow: 1px 1px 1pc color;*/
+        }
+
+        p {
+            color:white;
+            font-size: 20px;
+            text-align: left;
+            
+            
+        }
+
+        h3 {
+            color: oldlace;
+            text-align: right;
+        }
