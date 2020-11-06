@@ -24,8 +24,9 @@ body {
 
         #container {
             border-radius: 40px;
-            width: 250px;
-            padding: 3%;
+            width: auto;
+            max-width: 260px;
+            padding: 1% 5% 1% 1%;
             margin: 1% 1%;
             background-color: rgba(255, 115, 0, 0.479);
         }
