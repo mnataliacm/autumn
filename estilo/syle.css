@@ -1,3 +1,10 @@
+@font-face {
+    font-family:'Queental-Regular' ;
+    src: url('../fuentes/Queental-Regular.ttf');
+    font-family:'Lovebird' ;
+    src: url('../fuentes/Lovebird.ttf');
+}
+
 body {  
     background-color: #f0653b;
     padding: 1% 1%;
@@ -16,35 +23,35 @@ body {
         }
 
         #container {
-            border-radius: 20px;
+            border-radius: 40px;
             width: 325px;
-            padding: 10px;
+            padding: 5px;
             margin: 5% 5%;
             background-color: rgba(255, 115, 0, 0.479);
-            padding: 5%;
+            padding: 4%;
             
         }
 
         h1 {
             color: rgb(247, 9, 9);
             text-align: center;
-            font-size: 3em;
             top:100px;
             left:200px;
-            /*font-family:'';
-            font-size:2em;
-            text-shadow: 1px 1px 1pc color;*/
+            font-family:'Lovebird';
+            font-size:3em;
+            letter-spacing:5px;
+            text-shadow: 2px 2px black;
         }
 
         p {
             color:white;
             font-size: 20px;
             text-align: left;
-            
-            
+            font-family:'Queental-Regular';
         }
 
         h3 {
             color: oldlace;
             text-align: right;
+            text-shadow: 2px 2px black;
         }
