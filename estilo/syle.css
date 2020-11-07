@@ -13,7 +13,7 @@ body {
             width: 95%;
             height: 20%;
             /*margin: 0.5% 0.5% 0.5% 0.5%;*/
-            padding: 20% 2.5%;
+            padding: 20%;
             background-image: url('../imagenes/wallpaper2.jpg');
             background-repeat: no-repeat;
             background-size: cover;
@@ -25,8 +25,8 @@ body {
             border-radius: 40px;
             width: auto;
             max-width: 270px;
-            padding: 2% 2% 2% 2%;
-            margin: 0.5% 1%;
+            padding: 2%;
+            margin: 1%;
             background-color: rgba(148, 71, 8, 0.479);
         }
 
