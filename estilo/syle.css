@@ -7,37 +7,34 @@
 
 body {  
     background-color: #f0653b;
-    padding: 1% 1%;
+    padding: 1% 1% 1% 1%;
 }
         #fondoimg {
-            width: 90%;
-            height: 10%;
+            width: 95%;
+            height: 20%;
             margin: 1px 1px;
-            padding: 5%;
+            padding: 6.5% 2.5%;
             background-image: url('../imagenes/wallpaper2.jpg');
             background-repeat: no-repeat;
             background-size: cover;
-            background-position: center center;
-            
+            background-position: center center;            
             position: relative;
         }
 
         #container {
             border-radius: 40px;
-            width: 0% 5% 1% 2%;
+            width: auto;
             max-width: 270px;
-            padding: 1% 8% 1% 2%;
+            padding: 2% 2% 2% 2%;
             margin: 1% 1%;
-            background-color: rgba(255, 115, 0, 0.479);
+            background-color: rgba(148, 71, 8, 0.479);
         }
 
         h1 {
             color: rgb(247, 9, 9);
             text-align: center;
-            top:100px;
-            left:200px;
             font-family:'Lovebird';
-            font-size:3em;
+            font-size:2em;
             letter-spacing:4px;
             text-shadow: 2px 2px black;
         }
